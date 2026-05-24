@@ -1,6 +1,6 @@
 {
-    "latest_version": "0.2.2",
-    "installer_url": "https://github.com/sdroszel/postledger-updates/releases/download/v0.2.2/PostLedger_Setup_v0.2.2.exe",
+    "latest_version": "0.2.3",
+    "installer_url": "https://github.com/sdroszel/postledger-updates/releases/download/v0.2.3/PostLedger_Setup_v0.2.3.exe",
     "release_notes": [
         "Improved toolbar layout",
         "Added analytics dashboard",
