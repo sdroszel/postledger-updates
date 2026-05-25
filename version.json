@@ -1,13 +1,8 @@
 {
-    "latest_version": "0.3.0",
-    "installer_url": "https://github.com/sdroszel/postledger-updates/releases/download/v0.3.0/PostLedger_Setup_v0.3.0.exe",
+    "latest_version": "0.3.1",
+    "installer_url": "https://github.com/sdroszel/postledger-updates/releases/download/v0.3.1/PostLedger_Setup_v0.3.1.exe",
     "release_notes": [
-    "Added right-click card actions for faster workflow access",
-    "Added Queue to Reddit directly from media cards",
-    "Added Assign Tag directly from media cards",
-    "Added Mark Posted To directly from media cards",
-    "Added quick actions for opening files, opening folders, and copying file paths",
-    "Improved update download feedback with visible progress",
-    "Improved overall posting workflow speed and usability"
+    "Added animated hover previews for video content",
+    "Added cached video preview GIF generation for smoother media browsing",
   ]
 }
