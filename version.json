@@ -1,6 +1,6 @@
 {
-    "latest_version": "0.3.4",
-    "installer_url": "https://github.com/sdroszel/postledger-updates/releases/download/v0.3.4/PostLedger_Setup_v0.3.4.exe",
+    "latest_version": "0.4.0",
+    "installer_url": "https://github.com/sdroszel/postledger-updates/releases/download/v0.4.0/PostLedger_Setup_v0.4.0.exe",
     "release_notes": [
     "Added animated hover previews for video content",
     "Added cached video preview GIF generation for smoother media browsing"
