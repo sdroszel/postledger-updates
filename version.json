@@ -1,8 +1,7 @@
 {
-    "latest_version": "0.4.0",
-    "installer_url": "https://github.com/sdroszel/postledger-updates/releases/download/v0.4.0/PostLedger_Setup_v0.4.0.exe",
+    "latest_version": "0.4.1",
+    "installer_url": "https://github.com/sdroszel/postledger-updates/releases/download/v0.4.1/PostLedger_Setup_v0.4.1.exe",
     "release_notes": [
-    "Added animated hover previews for video content",
-    "Added cached video preview GIF generation for smoother media browsing"
+    "Added reroute to RedGIFs uploader for video files, streamlining the posting process for video content."
   ]
 }
