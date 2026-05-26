@@ -1,7 +1,11 @@
 {
-    "latest_version": "0.4.1",
-    "installer_url": "https://github.com/sdroszel/postledger-updates/releases/download/v0.4.1/PostLedger_Setup_v0.4.1.exe",
+    "latest_version": "0.5.0",
+    "installer_url": "https://github.com/sdroszel/postledger-updates/releases/download/v0.5.0/PostLedger_Setup_v0.5.0.exe",
     "release_notes": [
-    "Added reroute to RedGIFs uploader for video files, streamlining the posting process for video content."
+        "Added a new workflow for tracking Reddit content.",
+        "Improved the user interface with a more modern design.",
+        "Fixed various bugs and improved performance.",
+        "Added a progress dialog to show workflow progress.",
+        "Added tooltips to guide users through the workflow."
   ]
 }
