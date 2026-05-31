@@ -1,11 +1,8 @@
 {
-    "latest_version": "0.5.1",
-    "installer_url": "https://github.com/sdroszel/postledger-updates/releases/download/v0.5.1/PostLedger_Setup_v0.5.1.exe",
+    "latest_version": "0.6.0",
+    "installer_url": "https://github.com/sdroszel/postledger-updates/releases/download/v0.6.0/PostLedger_Setup_v0.6.0.exe",
     "release_notes": [
-        "Added support for tracking video content with duration metadata.",
-        "Improved UI responsiveness when loading large datasets.",
-        "Fixed a bug that caused incorrect scheduling of posts in certain time zones.",
-        "Enhanced error handling for API interactions with Reddit.",
-        "Updated dependencies to the latest versions for improved security and performance."
+        "Added ability to set post title in workflow details panel.",
+        "Added ability to save titles to subreddits and have them pre-populate when loading a queued item or selecting a subreddit in the workflow details panel."
   ]
 }
